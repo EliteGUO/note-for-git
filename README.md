@@ -1,1 +1,1 @@
-# note-for-git
+# one note for git learning
